@@ -27,7 +27,7 @@
 
 ## Other info
 
-- You can also visit the project trhough this [link](https://nlw-notes-experts.vercel.app/)
+- You can also visit the project trhough this [link](https://coffeshop-devchallange.vercel.app/)
 
 ### Notes
 
