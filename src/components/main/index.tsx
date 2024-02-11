@@ -53,7 +53,7 @@ const Main = () => {
           {/* <img className="absolute top-[15%] -right-28 md:right-9 md:top-40" src={imgHeader} alt="" /> */}
           <h1 className="text-[32px] text-[#FEF7EE] font-sans ">Our Collection </h1>
           <p className="text-[#6F757C] text-[16px] w-full md:w-8/12 font-sans">Introducing our Coffee Collection, a selection of unique coffees from different roast types and origins, expertly roasted in small batches and shipped fresh weekly.</p>
-          <div className="flex gap-3 text-sm mt-5">
+          <div className="flex gap-3 text-sm mt-5 text-[#FEF7EE]">
             <button className={`p-2 rounded-md hover:bg-slate-500 ${!filtered? 'bg-[#6F757C]': ''} `} onClick={() => setFiltered(false)} >All Products</button>
             <button className={`p-2 rounded-md hover:bg-slate-500 ${filtered? 'bg-[#6F757C]': ''} `}onClick={() => setFiltered(true)} >Available Now</button>
           </div>
